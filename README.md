@@ -43,3 +43,8 @@ asciiToGSM("Gol de mao") // Retorna a Cadeia de numeros "46665550333062666"
 asciiToGSM("") // Retorna UnexpectedValueException
 ```
 
+## 5º Caso de Teste 
+
+```php
+asciiToGSM("Por conseguinte, a constante divulgação das informações nos obriga à análise do processo de comunicação como um todo. Evidentemente, a complexidade dos estudos efetuados faz parte de um processo de gerenciamento dos métodos utilizados na avaliação de resultados.") // Retorna UnexpectedValueException
+```
