@@ -2,7 +2,7 @@
 ### Repositório para criar os casos de teste da questão do DojoPuzzles "Escrevendo no Celular" 
   * Membros: Alan David, Lucas de Lima
   * Problema: [link](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
-  * Tecnologia: Php com Laravel
+  * Tecnologia: Php com Laravel 5.4
   
   
   ## Plano de teste
