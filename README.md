@@ -9,8 +9,8 @@
 
 | Entrada  | Condição | Classes Válidas | Classes Inválidas |
 | ------------- | ------------- | ------------- | ------------- |
-| Cadeia de Caracteres      |Cadeia Igual ah string  | is_string($cadeia) == True | is_string($cadeia) != True |
-| Cadeia de Caracteres      |Cadeia Menor ou Igual ah 255 Caracteres | strlen ( string $cadeia ) <= 255 | strlen ( string $cadeia ) > 255 |
+| Cadeia de Caracteres      |Cadeia Igual à string  | is_string($cadeia) == True | is_string($cadeia) != True |
+| Cadeia de Caracteres      |Cadeia Menor ou Igual à 255 Caracteres | strlen ( string $cadeia ) <= 255 | strlen ( string $cadeia ) > 255 |
 | Cadeia de Caracteres      |Cadeia ser diferente de vazia  | strlen > 0 | strlen <= 0  |
 
  ### Protótipos dos métodos
